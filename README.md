@@ -29,6 +29,8 @@ Diseño adaptativo"
 
 
 ### `Como podemos obtener la aplicación`
+La puedes visualizar por medio de este link o descargar si lo deseas desde el repositorio de Github
+https://otorres851.github.io/Prueba-Vansa/
 
 **Nota: La aplicación es responsiva y se puede ver desde cualquier dispositivo ya sea Tablet o Móvil!**
 
