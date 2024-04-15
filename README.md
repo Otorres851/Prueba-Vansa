@@ -25,8 +25,6 @@ Diseño adaptativo"
 - La página debe tener animacion video y sonido.
 - El resultado debe ser una aplicacion interactiva.
 
-### `Modo de utilización`
-
 
 ### `Como podemos obtener la aplicación`
 La puedes visualizar por medio de este link o descargar si lo deseas desde el repositorio de Github
