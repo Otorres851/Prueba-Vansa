@@ -1,0 +1,12 @@
+{
+  "name": "prueba-tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./css/index.scss ./css/index.min.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
