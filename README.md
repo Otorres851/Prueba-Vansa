@@ -6,7 +6,7 @@ El proyecto esta desarrollado con HTML5 CSS3 y JAVASCRIPT.
 
 ### `Descripción`
 
-El desafío consiste en una aplicación, que nos permite presentar nuestro prtfíl con una serie de animaciones y videos interactivo elearning. 
+El desafío consiste en una aplicación, que nos permite presentar nuestro perfíl con una serie de animaciones y videos interactivo elearning. 
 
 Debemos tener presente estos tips:
 
